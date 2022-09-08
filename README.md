@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stevekineeve88
-- 👀 I’m interested in video game, desktop application, and web development
-- 🌱 I’m currently learning video game development best practices
+- 👀 I’m interested in web application and cloud development
+- 🌱 I’m currently learning GoLang and microservices architecture
 - 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me
      email: stephen.ayre8@gmail.com
